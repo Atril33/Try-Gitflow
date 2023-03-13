@@ -1,0 +1,7 @@
+Car
+Apple
+Red
+Green
+Boats
+Juice
+Kite
